@@ -24,6 +24,8 @@ Mən İT infrastrukturunun idarə edilməsi, verilənlər bazası arxitekturası
 ### 📈 GitHub Statistikam
 
 
+
+
 ---
 
 ### 📫 Necə əlaqə saxlamaq olar?
