@@ -23,9 +23,7 @@ Mən İT infrastrukturunun idarə edilməsi, verilənlər bazası arxitekturası
 
 ### 📈 GitHub Statistikam
 
-![Elman's Stats](https://github-readme-stats.vercel.app/api?username=Bro-bot-coder&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bro-bot-coder&layout=compact&theme=radical)
 ---
 
 ### 📫 Necə əlaqə saxlamaq olar?
