@@ -28,8 +28,7 @@ Mən İT infrastrukturunun idarə edilməsi, verilənlər bazası arxitekturası
 ---
 
 ### 📫 Necə əlaqə saxlamaq olar?
-- **LinkedIn:** []((https://www.linkedin.com/in/elman-asgarov/)) ]
-- **Telegram:** @As garov
-
+- **LinkedIn:** [Elman Əsgərov](https://www.linkedin.com/in/elman-asgarov)
+- **Telegram:** [@As_garov](https://t.me/As_garov)
 ---
 *"Hər bir mürəkkəb problemin sadə və effektiv bir kod həlli vardır."*
